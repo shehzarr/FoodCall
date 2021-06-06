@@ -24,3 +24,10 @@ Ordering food must be allowed from local restaurants.
 10. Login
 11. Sign up
 12. Add Menu items
+
+## Notable Features
+
+1. Integrated Ads
+2. Database hosted via Firebase
+3. Notifications
+4. Analytics Integrated 
