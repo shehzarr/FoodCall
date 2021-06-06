@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "914619152488",
+    "firebase_url": "https://foodcall-9b35d.firebaseio.com",
+    "project_id": "foodcall-9b35d",
+    "storage_bucket": "foodcall-9b35d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914619152488:android:28ea64b7f56574dda6a3dd",
+        "android_client_info": {
+          "package_name": "com.example.foodcall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914619152488-5pjaqe4cofmatm5gh7c110o1pt3m7b1q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodcall",
+            "certificate_hash": "d3fe35f51c1bdee259cce35c166843678a10ac3f"
+          }
+        },
+        {
+          "client_id": "914619152488-vsffu2ncngmfcpq490l081b5b575gpnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCh4MIzO08rIXyvfbfN9fE_EH_mPdOkSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914619152488-vsffu2ncngmfcpq490l081b5b575gpnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

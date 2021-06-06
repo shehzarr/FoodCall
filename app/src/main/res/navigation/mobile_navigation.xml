@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.foodcall.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_orders"
+        android:name="com.example.foodcall.ui.Orders.OrdersFragment"
+        android:label="@string/menu_orders"
+        tools:layout="@layout/fragment_orders" />
+
+    <fragment
+        android:id="@+id/nav_myvouchers"
+        android:name="com.example.foodcall.ui.MyVouchers.MyVouchersFragment"
+        android:label="@string/MyVouchers"
+        tools:layout="@layout/fragment_myvouchers" />
+
+    <fragment
+        android:id="@+id/logout"
+        android:name="com.example.foodcall.ui.LogOut.logoutFragment"
+        android:label="@string/LogOut"
+        tools:layout="@layout/fragment_logout" />
+
+    <fragment
+        android:id="@+id/helpcenter"
+        android:name="com.example.foodcall.ui.HelpCenter.HelpcenterFragment"
+        android:label="@string/HelpCenter"
+        tools:layout="@layout/fragment_helpcenter" />
+
+    <fragment
+        android:id="@+id/aboutus"
+        android:name="com.example.foodcall.ui.AboutUs.AboutUsFragment"
+        android:label="@string/AboutUs"
+        tools:layout="@layout/fragment_aboutus" />
+</navigation>

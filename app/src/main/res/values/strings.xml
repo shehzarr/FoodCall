@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Foodcall</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Shehzar Iftikhar</string>
+    <string name="nav_header_subtitle">notifyshehzar@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_orders">Orders</string>
+    <string name="HelpCenter">Help Center</string>
+    <string name="AboutUs">About Us</string>
+    <string name="LogOut">Log Out</string>
+    <string name="MyAddresses">My Addresses</string>
+    <string name="Communicate">Communicate</string>
+
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="prompt_name">Name</string>
+    <string name="MyVouchers">My Vouchers</string>
+
+    <string name="nav_logged_name"></string>
+
+    <string name="account">My Account</string>
+
+    <string name="order">How to Order</string>
+    <string name="payment">Making a Payment</string>
+
+    <string name="account_info">You have to login using your foodcall email id and password.</string>
+    <string name="order_info">You have to select the restaurant from where you want to order along with the food
+        and then move to cart to proceed for your order.
+    </string>
+    <string name="payment_info">You can either pay using your credit/debit card or cash on delivery.</string>
+
+    <string name="aboutus_info">Contact:\n\nLive Chat|Chat with us\nsupport@foocall.pk\n\nDo you want
+    to write about foodcall?\nDo you want interviews?\nFeel free to email us at press@foodcall.pk\n\nDo you
+    want to partner with us?\npartner@foodcall.pk</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string-array name="cities">
+        <item>Lahore</item>
+        <item>Islamabad</item>
+        <item>Karachi</item>
+        <item>Sargodha</item>
+    </string-array>
+
+
+</resources>
